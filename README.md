@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -17,3 +18,6 @@ http://www.youtube.com/user/c9ide.
 Happy coding!
 The Cloud9 IDE team
 
+=======
+# chapter1
+>>>>>>> 8f7fa215e079d232130400a88ae2913b6c6a723a
